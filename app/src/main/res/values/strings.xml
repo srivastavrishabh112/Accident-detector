@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Accident Detector</string>
+    <string name="tag">S.O.S Smart Accident Detection App</string>
+    <string name="start_detecting">Start Detecting</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="done">Done</string>
+    <string name="Warn">You Can only Add up to 4 Contacts.You can delete a contact by long pressing on it</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="textview">TextView</string>
+    <string name="detecting">Detecting Accidents......</string>
+    <string name="detected">Accident Detected</string>
+    <string name="detection">Is it an Accident ?</string>
+
+    <string name="report">Accident Detected and S.O.S Message sent successfully</string>
+    <string name="cont">Contacts</string>
+    <string name="type">Type</string>
+    <string name="log_out">Log Out</string>
+    <string name="open">"open"</string>
+    <string name="close">"close"</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="_91">+91</string>
+    <string name="enter_your_number">Enter Your Number</string>
+    <string name="or">OR</string>
+    <string name="client_id">595203703138-3h2j5t9ftd198lok35lt1clohgd212h5.apps.googleusercontent.com</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="resend">Resend</string>
+
+    <string name="how_it_works_n_click_here">How it Works ? \n Click here to Know</string>
+    <string name="description">This App uses accelerometer sensor to detect Accident and Sends an S.O.S. Message to Your
+        added Emergency Contacts with Your Current Location.  If You are travelling with 2 wheeler it is suggested to  keep your
+        phone in pocket and if you are travelling  in a car it is recommended to keep your phone  on dashboard.
+        After Detecting Accident this app ask  for confirmation that is it a accident  or not with a timer of 30 seconds
+        if it does not gets any response  within 30 seconds it sends S.O.S message automatically.
+    </string>
+    <string name="empty">Add at least 1 Contact First</string>
+    <string name="sign_in_using">Sign in using</string>
+
+
+</resources>

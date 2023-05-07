@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "595203703138",
+    "project_id": "accident-detector-app",
+    "storage_bucket": "accident-detector-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595203703138:android:37b66f9a6e1ea51df3ac3b",
+        "android_client_info": {
+          "package_name": "com.harsh.accidentdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595203703138-gs1jhhnnittgc43pv5vfee8n7m1t0g0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harsh.accidentdetector",
+            "certificate_hash": "328731a5b5bc0c8a820dc5f0179d8372bcfde240"
+          }
+        },
+        {
+          "client_id": "595203703138-3h2j5t9ftd198lok35lt1clohgd212h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWpbjzwvajzoTFejuxxgmfHOBprP5QhRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595203703138-3h2j5t9ftd198lok35lt1clohgd212h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
